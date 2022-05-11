@@ -1,4 +1,4 @@
-module github.com/RaymondCode/simple-demo
+module github.com/zoujun123/simple-demo
 
 go 1.17
 
